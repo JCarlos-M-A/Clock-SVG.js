@@ -9,11 +9,11 @@ body {
   position: absolute;
 }
 
-.texto{
-  color: white;
-  position: absolute;
-  left: 50px;
-  top: 10px;
+#mensaje {
+    font-size: 5rem;
+    color: white;
+    font-family: Courier, "Lucida Console", monospace;
+    text-align: center;
 }
 
 .btnFullScrean {
